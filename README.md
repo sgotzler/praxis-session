@@ -20,4 +20,4 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ### III. Going Live and Using hypothes.is to Create Annotations
 
-### IV. *March of Current Projects*
+### IV. Examples
