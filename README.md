@@ -12,12 +12,12 @@ working group on GitHub.
 
 Digital Reading Editions vs. Scholarly Editions ... 
 
-## *What to title this portion?*
+## *Tutorial*
 
-### Building a Jekyll site with Ed.+ hypothes.is
+### I. Building a Jekyll site with Ed.+ hypothes.is
 
-### Importing Your Own Text and Editing+Writing with markdown
+### II. Importing Your Own Text and Editing+Writing with markdown
 
-### Going Live and Using hypothes.is to Create Annotations
+### III. Going Live and Using hypothes.is to Create Annotations
 
-### *March of Current Projects*
+### IV. *March of Current Projects*
