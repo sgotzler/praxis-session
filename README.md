@@ -2,13 +2,14 @@
 
 ## Defining Minimal Computing
 Minimal Computing is ...
+Complicating Minimal Computing ...
 
 For more resources and information about minimal computing check out the [minicomp](http://go-dh.github.io/mincomp/)
 working group on GitHub.
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
-### Digital Reading Editions vs. Scholarly Editions
+Digital Reading Editions vs. Scholarly Editions ... 
 
 ## *What to title this portion?*
 
@@ -18,4 +19,4 @@ working group on GitHub.
 
 ### Going Live and Using hypothes.is to Create Annotations
 
-### *March of Projects*
+### *March of Current Projects*
