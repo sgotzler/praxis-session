@@ -2,6 +2,7 @@
 
 ## Defining Minimal Computing
 Minimal Computing is ...
+
 Complicating Minimal Computing ...
 
 For more resources and information about minimal computing check out the [minicomp](http://go-dh.github.io/mincomp/)
