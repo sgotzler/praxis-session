@@ -16,7 +16,7 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ### I. Building a Jekyll site with Ed.+ hypothes.is
 
-### [II. Importing Your Own Text and Editing+Writing with markdown](sgotzler.github.io/praxis-session/using-markdown)
+### [II. Importing Your Own Text and Editing+Writing with markdown](sgotzler.github.io/praxis-session/using-markdown.md)
 
 ### III. Going Live and Using hypothes.is to Create Annotations
 
