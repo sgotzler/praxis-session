@@ -16,5 +16,5 @@ What is markdown ...
 
 
 ### Further Resources
-[Markdown Guide and Cheat Sheet from markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
-[Sustainable Authorship in Plain Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+* [Markdown Guide and Cheat Sheet from markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
+* [Sustainable Authorship in Plain Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
