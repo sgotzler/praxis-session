@@ -1,16 +1,18 @@
-# Importing Your Own Text and Editing + Writing with markdown
+# Editing + Writing with Markdown
 
 What is markdown ...
-*minimal computing rationale*
-*advantages over html*
 
-## Importing Your Own Text ...
+*minimal computing rationale*...
 
-*Converting pdf's to plain text using Calibre*
+*advantages over html*...
 
-*Scraping websites to create html files*
+## Importing Your Own Text 
 
-## *Working with text-editors: Atom, Sublime, etc.*
+*Converting pdf's to plain text using Calibre*...
+
+*Scraping websites to create html files*...
+
+## *Working with Text-Editors: Atom, Sublime, etc.*
 
 *MARXdown demo -- editing and writing w/ markdown*
 
