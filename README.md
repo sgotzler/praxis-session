@@ -1,4 +1,4 @@
-# workshop
+# Deploying Lightweight Digital Editions in the Community and Classroom 
 
-## Phase 1 - Pre-Flight
+## Defining Minimal Computing
 
