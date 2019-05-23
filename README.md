@@ -10,7 +10,7 @@ working group on GitHub.
 
 ### Digital Reading Editions vs. Scholarly Editions
 
-## *What to tile this portion?*
+## *What to title this portion?*
 
 ### Building a Jekyll site with Ed.+ hypothes.is
 
