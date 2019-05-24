@@ -28,8 +28,7 @@ Digital Reading Editions vs. Scholarly Editions ...
 ### IV. Examples
 
 #### Digital Reading Editions
-* [MARXdown](https://MARXdown.github.io){:target="_blank"} a digital reading edition of Marx's *Capital Vol.1*
-
+* [MARXdown](https://MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
 * [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/) a digital collation of five distinct versions of the novel produced between 1816 and 1831. 
 
 #### Digital Exhibits & Collections
