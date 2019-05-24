@@ -28,7 +28,8 @@ Digital Reading Editions vs. Scholarly Editions ...
 ### IV. Examples
 
 #### Digital Reading Editions
-* [MARXdown](https://MARXdown.github.io{target=_"blank"}) a digital reading edition of Marx's *Capital Vol.1*
+* [MARXdown](https://MARXdown.github.io){:target="_blank"} a digital reading edition of Marx's *Capital Vol.1*
+
 * [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/) a digital collation of five distinct versions of the novel produced between 1816 and 1831. 
 
 #### Digital Exhibits & Collections
@@ -41,6 +42,5 @@ Digital Reading Editions vs. Scholarly Editions ...
 * [Course Sites](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on "Media and Materiality" at the University of Victoria.
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
 
-For more resources and information about minimal computing check out the [minicomp](http://go-dh.github.io/mincomp/)
-working group's [GitHub repository](https://github.com/minicomp).
+For more resources and information about minimal computing check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
 
