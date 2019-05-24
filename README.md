@@ -33,10 +33,10 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 #### Digital Exhibits & Collections
 * [Collection Builder-GH](https://collectionbuilder.github.io/collectionbuilder-gh/) a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills.
-* [Wax](https://minicomp.github.io/wax/) A platform for creating digital scholarly or cultural exhibits with minimal resources by creating customizable statit websites integrating image collections, video, sound and text.
+* [Wax](https://minicomp.github.io/wax/) A platform for creating digital scholarly or cultural exhibits with minimal resources by creating customizable static websites integrating image collections, video, sound and text.
 * [Style Revolution](https://stylerevolution.github.io/) a digital exhibit created using Wax by the Department of Art History and Archeology at Columbia University.
 
-#### Intellectual Project Space
+#### Intellectual Project Spaces
 * [Minimal Computing](http://go-dh.github.io/mincomp/) a space for organizing, and collaborating on minimal computing projects, as well as for aggregating and sharing resources and ideas relevant to those projects.
 * [Media and Materiality](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on media and critical theory at the University of Victoria.
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
