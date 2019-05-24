@@ -5,10 +5,10 @@ Minimal Computing can be productivly oriented around the question: "what do we m
 
 "Computing minimally" means thinking about digital and public humanities projects in ways that reorient our thinking around ease of use, ease of creation, increased access, and reductions in cost, electricity, etc. Such projects tend to:
 
-1. Curb reliance on proprietary platforms and tools
-    Increase awareness of ecological and social impacts of computing (storage, production, etc.)
-2. Demystify computers as tools of labor for workers in the humanities.
-3. Lower barriers to access and increase ease and freedom of information/knowledge (as the products of our labor).
+*Curb reliance on proprietary platforms and tools
+*Increase awareness of ecological and social impacts of computing (storage, production, etc.)
+    *Demystify computers as tools of labor for workers in the humanities.
+*Lower barriers to access and increase ease and freedom of information/knowledge (as the products of our labor).
 
 Complicating Minimal Computing ...
 
