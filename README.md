@@ -38,7 +38,7 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 #### Intellectual Project Space
 * [Minimal Computing](http://go-dh.github.io/mincomp/) a space for organizing, and collaborating on minimal computing projects, as well as for aggregating and sharing resources and ideas relevant to those projects.
-* [Course Sites](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on "Media and Materiality" at the University of Victoria.
+* [Media and Materiality](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on media and critical theory at the University of Victoria.
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
 
 For more resources and information about minimal computing check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
