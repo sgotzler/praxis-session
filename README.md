@@ -25,7 +25,7 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ### III. Going Live and Using hypothes.is to Create Annotations
 
-### IV. Examples
+## Examples
 
 #### Digital Reading Editions
 * [MARXdown](https://MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
