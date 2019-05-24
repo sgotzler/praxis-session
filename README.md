@@ -19,17 +19,18 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ## Tutorial
 
-### [I. Building a Jekyll site with Ed.+ hypothes.is](/praxis-session/jekyll)
+### [I. Building a Jekyll site](/praxis-session/jekyll)
 
-### [II. Importing Your Own Text and Editing+Writing with markdown](/praxis-session/markdown)
+### [II. Editing + Writing with markdown](/praxis-session/markdown)
 
-### [III. Going Live and Using hypothes.is to Create Annotations](/praxis-session/hypothesis)
+### [III. Using hypothes.is to Create Annotations](/praxis-session/hypothesis)
 
 ## Examples
 
 #### Digital Reading Editions
 * [MARXdown](https://MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
 * [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/) a digital collation of five distinct versions of the novel produced between 1816 and 1831. 
+* [Aimé Césaire and the Broken Record](https://via.hypothes.is/http://record.elotroalex.com/chapters/03-assimilate/) a work in progress by Alex Gil, using Ed. to publish a series of critical explorations of Aimé Césaire's work as well as several "speculative" editions of one of his early plays *Et les Chiens se taisaient* (1958).
 
 #### Digital Exhibits & Collections
 * [Collection Builder-GH](https://collectionbuilder.github.io/collectionbuilder-gh/) a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills.
