@@ -1,7 +1,7 @@
 # Deploying Lightweight Digital Editions in the Community and Classroom 
 
 ## Defining Minimal Computing
-Minimal Computing can be productivly oriented around answering the question: "what do we minimally need from computing to help us achieve our goals?" For Alex Gil, building any project using minimal computing principles means building computing projects, as Ernesto Orazo would call them, using ["architectures of necessity"](http://architectureofnecessity.com/).<sup>[1]</sup>(http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
+Minimal Computing can be productivly oriented around answering the question: "what do we minimally need from computing to help us achieve our goals?" For Alex Gil, building any project using minimal computing principles means building computing projects, as Ernesto Orazo would call them, using ["architectures of necessity"](http://architectureofnecessity.com/).[(http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)][1]
 
 "Computing minimally" means thinking about digital and public humanities projects in ways that reorient our thinking around ease of use, ease of creation, increased access, and reductions in cost, electricity, etc. Minimal computing projects strive to:
 
