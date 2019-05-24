@@ -13,9 +13,6 @@ Minimal Computing can be productivley oriented around answering the question: "w
 
 Complicating Minimal Computing ...
 
-For more resources and information about minimal computing check out the [minicomp](http://go-dh.github.io/mincomp/)
-working group on GitHub.
-
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
 Digital Reading Editions vs. Scholarly Editions ... 
@@ -24,14 +21,14 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ### I. Building a Jekyll site with Ed.+ hypothes.is
 
-### [II. Importing Your Own Text and Editing+Writing with markdown](praxis-session/using-markdown.md)
+### II. Importing Your Own Text and Editing+Writing with markdown
 
 ### III. Going Live and Using hypothes.is to Create Annotations
 
 ### IV. Examples
 
 #### Digital Reading Editions
-* [MARXdown](https://MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
+* [MARXdown](https://MARXdown.github.io{target=_"blank"}) a digital reading edition of Marx's *Capital Vol.1*
 * [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/) a digital collation of five distinct versions of the novel produced between 1816 and 1831. 
 
 #### Digital Exhibits & Collections
@@ -44,4 +41,6 @@ Digital Reading Editions vs. Scholarly Editions ...
 * [Course Sites](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on "Media and Materiality" at the University of Victoria.
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
 
-##thought about having a fourth subset of these bullet lists for "publications" -- but then also liked the idea of qualifying publications as ideally understood as intellectual project spaces. --do you have a preference?
+For more resources and information about minimal computing check out the [minicomp](http://go-dh.github.io/mincomp/)
+working group's [GitHub repository](https://github.com/minicomp).
+
