@@ -31,14 +31,17 @@ Digital Reading Editions vs. Scholarly Editions ...
 ### IV. Examples
 
 #### Digital Reading Editions
-* [MARXdown](MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
-* [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/)
+* [MARXdown](https://MARXdown.github.io) a digital reading edition of Marx's *Capital Vol.1*
+* [The Frankenstein Variorum](https://pghfrankenstein.github.io/Pittsburgh_Frankenstein/) a digital collation of five distinct versions of the novel produced between 1816 and 1831. 
 
 #### Digital Exhibits & Collections
 * [Collection Builder-GH](https://collectionbuilder.github.io/collectionbuilder-gh/) a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills.
 * [Wax](https://minicomp.github.io/wax/) A platform for creating digital scholarly or cultural exhibits with minimal resources by creating customizable statit websites integrating image collections, video, sound and text.
-* [Style Revolution](https://stylerevolution.github.io/) an digital exhibit created using Wax by the Department of Art History and Archeology at Columbia.
+* [Style Revolution](https://stylerevolution.github.io/) a digital exhibit created using Wax by the Department of Art History and Archeology at Columbia University.
 
 #### Intellectual Project Space
 * [Minimal Computing](http://go-dh.github.io/mincomp/) a space for organizing, and collaborating on minimal computing projects, as well as for aggregating and sharing resources and ideas relevant to those projects.
-* [Course Sites](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for class on "Media and Materiality" at the University of Victoria.
+* [Course Sites](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on "Media and Materiality" at the University of Victoria.
+* [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
+
+##thought about having a fourth subset of these bullet lists for "publications" -- but then also liked the idea of qualifying publications as ideally understood as intellectual project spaces. --do you have a preference?
