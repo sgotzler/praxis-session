@@ -22,7 +22,7 @@ In the essay, “Minimal Definitions” Jentery Sayers lays out a series of crit
 
 Going forward then, what we’re interested in asking is the following: 
 
->How might we leverage minimal computing principles to imagine new "architectures of necessity" --i.e. **that give was what we need** -- while continuing to unsettle the potentially delimiting dimensions of technoglogy for our labor and practice as *workers in the humanities*?
+>*How can we leverage minimal computing principles to imagine new "architectures of necessity" (i.e. projects that give was what we need), while continuing to unsettle and question the consequential dimensions of technoglogy for our labor and practice as workers in the humanities?*
 
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
