@@ -14,7 +14,7 @@ Minimal Computing can be productivley oriented around answering the question: "w
 Complicating Minimal Computing *...cite Sayers, and paraphrase basic thrust of his piece then transition to another set of bullets...*
 
 * How do minimialist aesthetics marginalize and reify by projecting certain things as "essential" when we decide what is necessary? 
-* For that matter, how do we define the "we" of these questions -- and how do certain knowledge barriers and material constraints prescribe this position?
+* For that matter, how do we define the "we" of these questions, and how do certain knowledge barriers and material constraints prescribe this position?
 * The politics of control in DIY/DIO (seizing the means of production vs. possessive individualism) 
 * What is the relation between creativity and labor, (i.e. creative action a la Arendt) and play into conventionally binary distinctions like play/work, labor/leisure. ("What don't we need?")
 
