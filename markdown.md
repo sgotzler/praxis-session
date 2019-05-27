@@ -35,7 +35,7 @@ Once you've OCR'ed your scans of documents, converted your PDF, or scraped your 
 If you already have a text-editor feel free to work in that. Otherwise, copy and paste it into this in-browser markdown editor: [StackEdit](https://stackedit.io/)
 
 * **DEMO: "marking-down" a plain text file**
-  - Check out a finished version [here](/praxis-session/williams-final.md).
+  - Check out a finished version [here](/praxis-session/williams-final).
 
 ### Further Resources
 * [Tips on How to Convert PDF to ePUB with *Calibre* and its Settings](https://pdf.iskysoft.com/convert-pdf/convert-pdf-to-epub-with-calibre.html)
