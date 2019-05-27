@@ -19,7 +19,7 @@ Once you've acquired a text you'd like to use to create a digital edition, you'l
 
 Another option might be to locate a public domain online version of a text and scrape an existing website to receive the source information as a ".html" file.
 
-This is what we did for *MARXdown* --using the existing text on [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/) for *Capital Vol.1*. 
+This is what we did for *MARXdown* using the existing text on [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/) for *Capital Vol.1*. 
 
 This method requires a bit more in-depth editing work on our part, removing all of the html tags and formatting, replacing hyperlinks, and essentially translating from html to markdown. But it also promised the ease of plaintext acquisition, i.e. we quickly acquired an open copyright plain text copy of the text in its entirety with out having to deal with OCR or file conversion processes.
 
@@ -29,9 +29,8 @@ Once you've OCR'ed your scans of documents, converted your PDF, or scraped your 
 
 * There are numerous options for this, some of the most popular include [Sublime](https://www.sublimetext.com/) and [Atom](https://atom.io/), but you can also find several online "live" markdown editors, where you can copy and paste a plain text file, and begin to see your changes rendered as you make them.
 
+>**NOTE**: For today, if you already have a text-editor feel free to work in that, or otherwise -- grab the plain text copy of the Raymond Williams which I've dropped in the [repo](*link to file page*) and copy and paste it into this in-browser markdown editor: [StackEdit](https://stackedit.io/)--I will be working in *Atom* up here if you want to just follow along with me. 
 * **DEMO: marking down a plain text file**
->For today, if you already have a text-editor feel free to work in that, or otherwise -- grab the plain text copy of the Raymond Williams which I've dropped in the [repo](*link to file page*) and copy and paste it into this in-browser markdown editor: [StackEdit](https://stackedit.io/)--I will be working in *Atom* up here if you want to just follow along with me. 
-
 
 ### Further Resources
 * [Tips on How to Convert PDF to ePUB with *Calibre* and its Settings](https://pdf.iskysoft.com/convert-pdf/convert-pdf-to-epub-with-calibre.html)
