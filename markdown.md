@@ -44,6 +44,7 @@ For *MARXdown* we used the following code:
 wget -r --no-parent -w 2 --limit-rate=20k https://www.marxists.org/archive/marx/works/1867-c1/
 ```
 >**NOTE**: When using *Wget* you need to be aware of the website structure such as security (SSL Certificates), dynamically created sites (javascript, python, etc.) -- marxists.org is created using farily basic html, so it was easy to scrape. More complex sites will require more programatically sophisticated methods. 
+
 >Also, be aware of how data you are downloading at once and be careful not to overload the website's servers. It is generally good practice to put in a wait time of 1-2 seconds "-w 2" in the line of code above.
 
 Executing an automated download of marxists.org required a bit more in-depth editing work on our part, removing all of the html tags and formatting, replacing hyperlinks, and essentially translating from html to markdown. 
@@ -64,6 +65,6 @@ If you already have a text-editor feel free to work in that. Otherwise, copy and
 
 ### Further Resources
 * [Tips on How to Convert PDF to ePUB with *Calibre* and its Settings](https://pdf.iskysoft.com/convert-pdf/convert-pdf-to-epub-with-calibre.html)
-* [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget)
+* [Automated Downloading with *Wget*](https://programminghistorian.org/en/lessons/automated-downloading-with-wget)
 * [Markdown Guide and Cheat Sheet from markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
