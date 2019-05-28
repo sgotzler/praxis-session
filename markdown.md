@@ -16,6 +16,7 @@ Once you've acquired a text you'd like to use to create a digital edition, you'l
 
 *Calibre* is an e-book mgmt. software that is available for free, and allows you to easily convert pdf's to plain-text. 
 * You can download it [here](https://calibre-ebook.com/).
+
 >**NOTE**: The ease of this process depends on the condition of your primary text (hand-written or scanned pages will present further difficulties and require preliminary optical character recognition (OCR) work. *Calibre* will only work smoothly with pdf's that do not need to be OCR'ed.
 * **DEMO: Converting PDF to plain-text w/ *Calibre* (Raymond Williams, "The Future of Marxism")**
 
