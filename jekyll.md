@@ -1,17 +1,18 @@
-# Building a Static Website with Jekyll 
+# Building a Jekyll site
 
-...
+## What is jekyll?
+* ...
+* what does it do?
+* How/Why did we use it?
+* Integrating "Ed." with your jekyll site
 
-What is jekyll -- what does it do?
+## GitHub and Text Editors
 
-How/Why did we use it?
-
-Integrating "Ed." with your jekyll site
-
-GitHub and Text Editors
-
--- GitHub
--- text editors (stay tuned...markdown section)
+* **GitHub** is a code hosting platform for version control and collaboration. It lets you build, store, manage and collaborate on digital projects with others from anywhere with internet acces.
+    - For more information about getting started using GitHub see their [Hello World Guide](https://guides.github.com/activities/hello-world/#what)
+ 
+* **Text Editors** -- In order to work with Jekyll to build a static website you'll need to use a text editor to view, edit, and save changes to the pages that compose your site's structure. 
+    - *stay tuned, we will cover more about text-editors in the markdown section*
 
 ### Further Resources
 
