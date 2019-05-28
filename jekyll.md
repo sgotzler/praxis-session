@@ -10,9 +10,11 @@
 
 * **GitHub** is a code hosting platform for version control and collaboration. It lets you build, store, manage and collaborate on digital projects with others from anywhere with internet acces.
     - For more information about getting started using GitHub see their [Hello World Guide](https://guides.github.com/activities/hello-world/#what)
+    
+* **Command Line** -- 
  
 * **Text Editors** -- In order to work with Jekyll to build a static website you'll need to use a text editor to view, edit, and save changes to the pages that compose your site's structure. 
-    - *stay tuned, we will cover more about text-editors in the markdown section*
+    - We will touch on text-editors more in the next section, but if you're interested in building your own jekyll site you might refer to [this section](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#text-editor-)from Amanda Visconti's "Building a static website with Jekyll and GitHub Pages," full version linked below.
 
 ### Further Resources
 
