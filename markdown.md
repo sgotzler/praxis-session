@@ -32,18 +32,21 @@ Once you've acquired a text you'd like to use to create a digital edition, you'l
 
 ### Scraping websites to create html files
 
-Another option might be to locate a public domain online version of a text and scrape an existing website to receive the source information as a ".html" file.
-
-Wget 
-* *what is wget, and what does it do?*
-* *caveats about basic websites*
-* *link to Programming Historian on Wget*
+Another option might be to locate a public domain online version of a text and download an existing website to receive the source information as a ".html" file using an automated program.
 
 This is what we did for *MARXdown* using the existing text on [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/) for *Capital Vol.1*. 
 
-* *sample code that was used for MARXdown*
+To execute this task we used a command line program called *Wget*. *Wget* retrieves content from the web and saves that data locally on your machine as per the existing site structure (i.e. nested folders and .html files).
 
-This method requires a bit more in-depth editing work on our part, removing all of the html tags and formatting, replacing hyperlinks, and essentially translating from html to markdown. 
+For *MARXdown* we used the following code:
+
+```bash
+wget -r --no-parent -w 2 --limit-rate=20k https://www.marxists.org/archive/marx/works/1867-c1/
+```
+>**NOTE**: When using *Wget* you need to be aware of the website structure such as security (SSL Certificates), dynamically created sites (javascript, python, etc.) -- marxists.org is created using farily basic html, so it was easy to scrape. More complex sites will require more programatically sophisticated methods. 
+>Also, be aware of how data you are downloading at once and be careful not to overload the website's servers. It is generally good practice to put in a wait time of 1-2 seconds "-w 2" in the line of code above.
+
+Executing an automated download of marxists.org required a bit more in-depth editing work on our part, removing all of the html tags and formatting, replacing hyperlinks, and essentially translating from html to markdown. 
 
 But it also promised the ease of plaintext acquisition, i.e. we quickly acquired an open copyright plain text copy of the text in its entirety with out having to deal with OCR or file conversion processes.
 
@@ -61,5 +64,6 @@ If you already have a text-editor feel free to work in that. Otherwise, copy and
 
 ### Further Resources
 * [Tips on How to Convert PDF to ePUB with *Calibre* and its Settings](https://pdf.iskysoft.com/convert-pdf/convert-pdf-to-epub-with-calibre.html)
+* [Automated Downloading with Wget](https://programminghistorian.org/en/lessons/automated-downloading-with-wget)
 * [Markdown Guide and Cheat Sheet from markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
