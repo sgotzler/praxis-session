@@ -2,7 +2,9 @@
 
 What is markdown?
 
-Developed in 2004 by John Gruber, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext files. A markup language is a way of formatting and enriching text (e.g. adding headers, tags, hyperlinks, etc.) Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
+Developed in 2004 by John Gruber, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext files. A markup language is a way of formatting and enriching text (e.g. adding headers, tags, hyperlinks, etc.) 
+
+Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
  
 Markdown has several advantages over html: 
 * minimizes reliance on proprietary platforms by offering a stripped down, easy-to-use markup language that allows people to render texts quickly and efficently on their own static websites, (i.e.avoiding services like squarespace or word press).
