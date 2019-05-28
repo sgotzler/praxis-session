@@ -3,7 +3,9 @@
 ## Defining Minimal Computing
 Minimal Computing can be productively oriented around answering the question: "what do we minimally need from computing to help us achieve our goals?" For [Alex Gil](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/), building any project using minimal computing principles means building computing projects, as Ernesto Orazo would call them, using ["architectures of necessity."](http://architectureofnecessity.com/)
 
-"Computing minimally" therefore means thinking about digital and public humanities projects in ways that reorient our thinking around ease of use, ease of creation, increased access, and reductions in cost, electricity, etc. Minimal computing projects strive to:
+"Computing minimally" therefore means thinking about digital and public humanities projects in ways that reorient our thinking around ease of use, ease of creation, increased access, and reductions in cost, electricity, etc. 
+
+**Minimal computing projects strive to:**
 
 * Curb reliance on proprietary platforms and tools
 * Increase awareness of ecological and social impacts of computing (storage, production, etc.)
@@ -13,18 +15,18 @@ Minimal Computing can be productively oriented around answering the question: "w
 
 ## Complicating "Minimal Computing"
 
-We think it's vitally important to continually engage in critical reflection about our own practices and positionality when undertakeing any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype, for the sake of computing itself.
+We think it's vitally important to continually engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype, for the sake of computing itself.
 
 In his essay, [“Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/), Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
 
-* How do minimialist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a digital or public humanities project? 
-* How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privelages prescribe our position?
+* How do minimalist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a digital or public humanities project? 
+* How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privileges prescribe our position?
 * How do we account for the politics of control in DIY/DIO projects that intersect with computing (viz. seizing the [means of production](https://marxdown.github.io/texts/ch01/#the-two-factors-of-a-commodity-use-value-and-value--the-substance-of-value-and-the-magnitude-of-value) versus [possessive individualism](https://en.wikipedia.org/wiki/C._B._Macpherson#Political_theories)?
 * How do we understand the relation between creativity and labor (i.e., "creative action" a la Arendt) and how do our strategies or tactics play into conventionally binary distinctions like play/work, labor/leisure, and more of "what don't we need"?
 
 When moving forward with any minimal computing project, what we’re interested in asking is: 
 
->*How can we leverage minimal computing principles to imagine new "architectures of necessity" (or projects that help give us what we need), while continuing to unsettle and to question the consequential dimensions of technoglogy for our labor and practice as workers in the humanities?*
+>*How can we leverage minimal computing principles to imagine new "architectures of necessity" (or projects that help give us what we need), while continuing to unsettle and to question the consequential dimensions of technology for our labor and practice as workers in the digital and public humanities?*
 
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
