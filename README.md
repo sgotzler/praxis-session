@@ -19,7 +19,7 @@ In his essay, [“Minimal Definitions](http://go-dh.github.io/mincomp/thoughts/2
 
 * How do minimialist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a digital or public humanities project? 
 * How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privelages prescribe our position?
-* How do we account for the politics of control in DIY/DIO projects that intersect with computing (viz. [seizing the means of production](https://marxdown.github.io/texts/ch01/#the-two-factors-of-a-commodity-use-value-and-value--the-substance-of-value-and-the-magnitude-of-value) versus [possessive individualism](https://en.wikipedia.org/wiki/C._B._Macpherson#Political_theories)?
+* How do we account for the politics of control in DIY/DIO projects that intersect with computing (viz. seizing the [means of production](https://marxdown.github.io/texts/ch01/#the-two-factors-of-a-commodity-use-value-and-value--the-substance-of-value-and-the-magnitude-of-value) versus [possessive individualism](https://en.wikipedia.org/wiki/C._B._Macpherson#Political_theories)?
 * How do we understand the relation between creativity and labor (i.e., "creative action" a la Arendt) and how do our strategies or tactics play into conventionally binary distinctions like play/work, labor/leisure, and more of "what don't we need"?
 
 When moving forward with any minimal computing project, what we’re interested in asking is the following: 
