@@ -19,4 +19,4 @@ GitHub and Text Editors
 * [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 * [Documentation for *Ed.*, a theme for minimal digital editions](https://elotroalex.github.io/ed/documentation/#installing-ed-replacing-an-existing-jekyll-theme)
 * [Quick Start Guide for Jekyll builder](https://jekyllrb.com/docs/)
-* [GitHub Pages Basics](https://help.github.com/en/categories/github-pages-basics)
+* [GitHub Pages Tutorial](https://pages.github.com/)
