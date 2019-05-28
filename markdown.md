@@ -34,7 +34,14 @@ Once you've acquired a text you'd like to use to create a digital edition, you'l
 
 Another option might be to locate a public domain online version of a text and scrape an existing website to receive the source information as a ".html" file.
 
+Wget 
+* *what is wget, and what does it do?*
+* *caveats about basic websites*
+* *link to Programming Historian on Wget*
+
 This is what we did for *MARXdown* using the existing text on [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/) for *Capital Vol.1*. 
+
+* *sample code that was used for MARXdown*
 
 This method requires a bit more in-depth editing work on our part, removing all of the html tags and formatting, replacing hyperlinks, and essentially translating from html to markdown. 
 
