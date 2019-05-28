@@ -33,7 +33,7 @@ Digital Reading Editions vs. Scholarly Editions ...
 
 ### [I. Building a Jekyll site](/praxis-session/jekyll)
 
-### [II. Editing + Writing with markdown](/praxis-session/markdown)
+### [II. Editing & Writing with markdown](/praxis-session/markdown)
 
 ### [III. Using hypothes.is to Create Annotations](/praxis-session/hypothesis)
 
