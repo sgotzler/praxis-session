@@ -1,12 +1,24 @@
 # Building a Jekyll site
 
-## What is jekyll?
-* ...
-* what does it do?
-* How/Why did we use it?
-* Integrating "Ed." with your jekyll site
+## What is Jekyll?
+
+Jekyll is a simple, static site generator. It utilizes markup, rather than a back-end database, to create webpages. As such, these sites can be securely deployed on the web with minimal maintenance in an easily preservable format. 
+
+This format allows us to freely host a website, collaborate across a research team, and integrate the principles of minimal computing we sought to use when creating our digital reading edition. 
+
+Jekyll utilizes the Ruby programming language. Ruby utilizes ‘gems' to install the necessary packages required to run programs. Jekyll thus is a ‘gem’ within Ruby, and you need to install the Jekyll gem in before running the program. 
+
+All of these dependencies and their installations are outline for both MacOS and Windows in the [following guide](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#text-editor-).
+
+## Integrating "Ed." with your Jekyll site
+
+“Ed.” is a theme which sits on top of a basic Jekyll site. It is a customized version of the basic site that enhances both the style and functionality. 
+
+Once a basic Jekyll site has been created, swapping out the basic Jekyll theme for “Ed." is easy. To do so, you’ll need to edit both the config.yml and gem file with a text editor. This is explained in more detail in [Ed’s documentation](https://elotroalex.github.io/ed/documentation/#installing-ed-replacing-an-existing-jekyll-theme)
 
 ## GitHub and working with the Command Line
+
+A Jekyll site requires Github, access to the command line, and a text editor.
 
 * **GitHub** is a code hosting platform for version control and collaboration. It lets you build, store, manage and collaborate on digital projects with others from anywhere with internet acces.
     - For more information about getting started using GitHub see their [Hello World Guide](https://guides.github.com/activities/hello-world/#what).
