@@ -15,7 +15,7 @@ Minimal Computing can be productively oriented around answering the question: "w
 
 ## Complicating "Minimal Computing"
 
-We think it's vitally important to continually engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype, for the sake of computing itself.
+We think it's vitally important to continually engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype.
 
 In his essay, [“Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/), Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
 
