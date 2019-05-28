@@ -1,8 +1,66 @@
 # Using hypothes.is to Create Collaborative Annotations
 
-### 1. Sign Up For an hypothes.is Account
+### 1. Sign Up For an *hypothes.is* account
 ![hypothes.is1](/hypo-image1.png)
 
-Move along.”
+Go to [the registration page](*needs link*). All you'll need to sign up for a *hypothes.is* account is an email address and a username. You should receive a confirmation email shortly--check your spam box if not.
+
+You'll more typically be signing in through the annotation sidebar after activating *hypothes.is* in MARXdown itself. Optionally, you can also use *hypothes.is* to annotate any website if you download its Chrome extension.
+
+![hypothes.is2](*needs link*)
+
+### 2. "Go Forth and Annotate":
+
+Navigate to [*MARXdown*](https://MARXdown.github.io) and sign in to your *hypothes.is* account.
+
+Expand the sidebar to scroll through the existing annotations.
+
+![hypothes.is3](*needs link*)
+
+To create your own annotation, select text, click the "New Note" button--the other button is for private highlights.
+
+![hypothes.is4](*needs link*)
+
+Enter your annotation content in the composition window and click "Post to Public"--you can also click the adjacent arrow to make the annotation private or "Only Me":
+
+![hypothes.is5](*needs link*)
+
+>**NOTE**: You can always view all your annotations in a stream at your "My Annotations" page on *hypothes.is*:
+
+![hypothes.is5](*needs link*)
+
+Your annotations are editable and deletable there as well.
+
+[Add images, links, and video,](*needs link*) or format your text using the editing buttons at the top of the composition window:
+
+![hypothes.is6](*needs link*)
+
+You can also make page-level annotations by clicking the same note button in the sidebar.
+
+![hypothes.is7](*needs link*)
+
+See [this blog](*needs link*) for a full explanation of the different types of annotation that can be made in *hypothes.is*, including replies. For tips on best annotation practices (how much text to select, when and how to add images and links, etc.), check out [this page](*needs link*).
+
+### 3. If you have been instructed to annotate as a part of a reading group:
+
+Follow the group link your organizer has shared with the group in order to join the group:
+
+![hypothes.is8](*needs link*)
+
+Click the button to join the group--you may be asked to sign in first if you have not already done so:
+
+![hypothes.is9](*needs link*)
+
+Next, navigate to the text you are assigned to annotate. Toggle the view finder in the upper left of the *hypothes.is.* sidebar to the group name--the default is the "Public" annotation layer:
+
+![hypothes.is10](*needs link*)
+
+Once you and your comrades have annotated texts as part of the group, links to those pages will appear on the group's home page as seen here:
+
+![hypothes.is11](*needs link*)
+
+For a more in-depth tutorial on joining and annotating as part of a *hypothes.is* group [follow this link](*needs link*).
+
+*Visit hypothes.is' [Student Resource Guide](*needs link*) for more guides and tutorials about using hypothes.is in the classroom or for reading groups.*
 
 
