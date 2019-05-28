@@ -2,11 +2,13 @@
 
 What is markdown?
 
-Developed in 2004 by John Gruber, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext files. It is increasingly the most commonly used form of markup language for DIY web-development projects. 
+Developed in 2004 by John Gruber, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext files. A markup language is a way of formatting and enriching text (e.g. adding headers, tags, hyperlinks, etc.) Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
+ 
+Markdown has several advantages over html: 
+* minimizes reliance on proprietary platforms by offering a stripped down, easy-to-use markup language that allows people to render texts quickly and efficently on their own static websites, (i.e.avoiding services like squarespace or word press).
+* Cuts down reliance on specialized techinal language making digital projects both a) more transparent (readability), b) reproducible (accesiblity).
 
-* *minimal computing rationale...* -- minimizes reliance on proprietary platforms 
-* *advantages over html...* -- cuts down reliance on specialized techinal language
-* *advantages over WYSIWYG...* -- labor of maintenance; demystification?
+The major drawbacks are that design choices are limited. For instance, some working knowledge of CSS and Java is still necessary to tweak and customize most jekyll sites. A site written in markdown only will be static, and more than likely soley text/hypertext based.  
 
 ## Importing Your Own Text 
 
