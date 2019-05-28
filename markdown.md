@@ -8,6 +8,7 @@ Markdown is increasingly the most commonly used form of markup language for DIY 
  
 Advantages over html: 
 * Minimizes reliance on proprietary platforms by offering a stripped down, easy-to-use markup language that allows people to render texts quickly and efficently on their own static websites, (i.e.avoiding services like squarespace or word press).
+
 * Cuts down reliance on specialized techinal language making digital projects both: 
    - a) transparent (readability)
    - b) reproducible (accesiblity)
@@ -26,6 +27,7 @@ Once you've acquired a text you'd like to use to create a digital edition, you'l
 * You can download it [here](https://calibre-ebook.com/).
 
 >**NOTE**: The ease of this process depends on the condition of your primary text (hand-written or scanned pages will present further difficulties and require preliminary optical character recognition (OCR) work. *Calibre* will only work smoothly with pdf's that do not need to be OCR'ed.
+
 * **DEMO: Converting PDF to plain-text w/ *Calibre* (Raymond Williams, "The Future of Marxism")**
 
 ### Scraping websites to create html files
