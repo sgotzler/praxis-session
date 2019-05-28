@@ -8,8 +8,8 @@ Advantages over html:
 * Minimizes reliance on proprietary platforms by offering a stripped down, easy-to-use markup language that allows people to render texts quickly and efficently on their own static websites, (i.e.avoiding services like squarespace or word press).
 
 * Cuts down reliance on specialized techinal language making digital projects both: 
-   - a) transparent (readability)
-   - b) reproducible (accesiblity)
+   - transparent (readability)
+   - reproducible (accessiblity)
 
 The major drawback is that design choices are limited. 
 
