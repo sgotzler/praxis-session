@@ -11,16 +11,16 @@ Minimal Computing can be productively oriented around answering the question: "w
 * Lower barriers to access
 * Increase ease and freedom of information/knowledge (as the products of our labor)
 
-Of course, it is also crucially important that we continually engage in critical reflection about our own practice and position. This is especially when confronting the overlapping concerns of culture and technology.
+Additionally, we think it is  crucially important to continually engage in critical reflection about our own practices and positionality. Critical reflection is especially important when confronting the overlapping concerns of culture and technology.
 
-In the essay, “Minimal Definitions” Jentery Sayers lays out a series of critical questions, and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing: 
+In his essay, “Minimal Definitions” Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide efforts to complicate the assumptions of minimal computing: 
 
-* How do minimialist aesthetics marginalize and reify by projecting certain things as "essential" when we decide what is necessary? 
-* For that matter, how do we define the "we" of these questions, and how do certain knowledge barriers and material constraints prescribe this position?
-* The politics of control in DIY/DIO (seizing the means of production vs. possessive individualism) 
-* What is the relation between creativity and labor, (i.e. creative action a la Arendt) and play into conventionally binary distinctions like play/work, labor/leisure. ("What don't we need?")
+* How do minimialist aesthetics marginalize and reify by projecting certain features as "essential" when we decide what is necessary? 
+* How do we define the "we" in questioning computing, and how do certain knowledge barriers and material constraints prescribe our position?
+* How do we account for the politics of control in DIY/DIO project that intersect with computing (viz. seizing the means of production vs. possessive individualism)?
+* How do we understand the relation between creativity and labor (i.e., "creative action" a la Arendt) and how do our strategies or tactics play into conventionally binary distinctions like play/work, labor/leisure, and more of "what don't we need"?
 
-Going forward then, what we’re interested in asking is the following: 
+Moving forward, what we’re interested in asking is the following: 
 
 >*How can we leverage minimal computing principles to imagine new "architectures of necessity" (i.e. projects that give was what we need), while continuing to unsettle and question the consequential dimensions of technoglogy for our labor and practice as workers in the humanities?*
 
