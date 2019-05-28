@@ -11,11 +11,11 @@ Minimal Computing can be productively oriented around answering the question: "w
 * Lower barriers to access
 * Increase ease and freedom of information/knowledge (as the products of our labor)
 
-### Questioning Minimal Computing
+## Complicating "Minimal Computing"
 
-We think it is  crucially important to continually engage in critical reflection about our own practices and positionality. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st centiry has tended to be distorted by hype.
+We think it's important to continually engage in critical reflection about our own practices and positionality when undertakeing a computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st centiry has tended to be distorted by hype, or computing for the sake of computing.
 
-In his essay, “Minimal Definitions,” [Jentery Sayers](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
+In his essay, [“Minimal Definitions](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/),” Jentery Sayers  lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
 
 * How do minimialist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a project? 
 * How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privelages prescribe our position?
