@@ -13,7 +13,7 @@ GitHub and Text Editors
 -- GitHub
 -- text editors (stay tuned...markdown section)
 
-## Further Resources
+### Further Resources
 
 * [Link to Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 * [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
