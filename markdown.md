@@ -9,7 +9,7 @@ Markdown is increasingly the most commonly used form of markup language for DIY 
 Advantages over html: 
 * Minimizes reliance on proprietary platforms by offering a stripped down, easy-to-use markup language that allows people to render texts quickly and efficently on their own static websites, (i.e.avoiding services like squarespace or word press).
 * Cuts down reliance on specialized techinal language making digital projects both: 
-   - a) more transparent (readability)
+   - a) transparent (readability)
    - b) reproducible (accesiblity)
 
 The major drawback is that design choices are limited. 
