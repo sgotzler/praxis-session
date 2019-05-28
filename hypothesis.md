@@ -1,7 +1,7 @@
 # Using hypothes.is to Create Collaborative Annotations
 
 ### 1. Sign Up For a *hypothes.is* account
-![hypothes.is1](/hypo-image1.png)
+![hypothes.is1](/assets/img/hypo-image1.png)
 
 Go to [the registration page](*needs link*). All you'll need to sign up for a *hypothes.is* account is an email address and a username. You should receive a confirmation email shortly--check your spam box if not.
 
