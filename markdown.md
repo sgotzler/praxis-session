@@ -1,7 +1,5 @@
 # Editing + Writing with Markdown
 
-What is markdown?
-
 Developed in 2004 by John Gruber, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext files. A markup language is a way of formatting and enriching text (e.g. adding headers, tags, hyperlinks, etc.) 
 
 Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
