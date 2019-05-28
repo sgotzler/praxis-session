@@ -7,7 +7,7 @@ Go to [the registration page](*needs link*). All you'll need to sign up for a *h
 
 You'll more typically be signing in through the annotation sidebar after activating *hypothes.is* in MARXdown itself. Optionally, you can also use *hypothes.is* to annotate any website if you download its Chrome extension.
 
-![hypothes.is2](*needs link*)
+![hypothes.is2](/assets/img/hypo-image2.png)
 
 ### 2. "Go Forth and Annotate":
 
@@ -15,29 +15,29 @@ Navigate to [*MARXdown*](https://MARXdown.github.io) and sign in to your *hypoth
 
 Expand the sidebar to scroll through the existing annotations.
 
-![hypothes.is3](*needs link*)
+![hypothes.is3](/assets/img/hypo-image3.png)
 
 To create your own annotation, select text, click the "New Note" button--the other button is for private highlights.
 
-![hypothes.is4](*needs link*)
+![hypothes.is4](/assets/img/hypo-image4.png)
 
 Enter your annotation content in the composition window and click "Post to Public"--you can also click the adjacent arrow to make the annotation private or "Only Me":
 
-![hypothes.is5](*needs link*)
+![hypothes.is5](/assets/img/hypo-image5.png)
 
 >**NOTE**: You can always view all your annotations in a stream at your "My Annotations" page on *hypothes.is*:
 
-![hypothes.is5](*needs link*)
+![hypothes.is6](/assets/img/hypo-image6.png)
 
 Your annotations are editable and deletable there as well.
 
 [Add images, links, and video,](*needs link*) or format your text using the editing buttons at the top of the composition window:
 
-![hypothes.is6](*needs link*)
+![hypothes.is7](/assets/img/hypo-image7.png)
 
 You can also make page-level annotations by clicking the same note button in the sidebar.
 
-![hypothes.is7](*needs link*)
+![hypothes.is8](/assets/img/hypo-image8.png)
 
 See [this blog](*needs link*) for a full explanation of the different types of annotation that can be made in *hypothes.is*, including replies. For tips on best annotation practices (how much text to select, when and how to add images and links, etc.), check out [this page](*needs link*).
 
@@ -45,19 +45,19 @@ See [this blog](*needs link*) for a full explanation of the different types of a
 
 Follow the group link your organizer has shared with the group in order to join the group:
 
-![hypothes.is8](*needs link*)
+![hypothes.is9](/assets/img/hypo-image9.png)
 
 Click the button to join the group--you may be asked to sign in first if you have not already done so:
 
-![hypothes.is9](*needs link*)
+![hypothes.is10](/assets/img/hypo-image10.png)
 
 Next, navigate to the text you are assigned to annotate. Toggle the view finder in the upper left of the *hypothes.is.* sidebar to the group name--the default is the "Public" annotation layer:
 
-![hypothes.is10](*needs link*)
+![hypothes.is11](/assets/img/hypo-image11.png)
 
 Once you and your comrades have annotated texts as part of the group, links to those pages will appear on the group's home page as seen here:
 
-![hypothes.is11](*needs link*)
+![hypothes.is12](/assets/img/hypo-image12.png)
 
 For a more in-depth tutorial on joining and annotating as part of a *hypothes.is* group [follow this link](*needs link*).
 
