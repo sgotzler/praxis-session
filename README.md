@@ -15,12 +15,12 @@ Minimal Computing can be productively oriented around answering the question: "w
 
 ## Complicating "Minimal Computing"
 
-We think it's vitally important to continually engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype.
+We believe it's important to engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially necessary when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype.
 
-In his essay, [“Minimal Definitions,"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
+In his essay, [“Minimal Definitions,"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts and complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
 
-* How do minimalist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a digital or public humanities project? 
-* How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privileges prescribe our position?
+* How do minimalist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is minimally necessary in a digital or public humanities project? 
+* How do we define the "we" in questioning minimal computing projects, and how do certain knowledge barriers and material constraints or privileges prescribe our position?
 * How do we account for the politics of control in DIY/DIO projects that intersect with computing (viz. seizing the [means of production](https://marxdown.github.io/texts/ch01/#the-two-factors-of-a-commodity-use-value-and-value--the-substance-of-value-and-the-magnitude-of-value) versus [possessive individualism](https://en.wikipedia.org/wiki/C._B._Macpherson#Political_theories)?
 * How do we understand the relation between creativity and labor (i.e., ["creative action"](https://books.google.com/books?id=ARBJAgAAQBAJ&printsec=frontcover&dq=arendt+human+condition&hl=en&sa=X&ved=0ahUKEwjMrMj_tr_iAhWQylkKHbnKCX4Q6AEIMDAB#v=onepage&q=creative%20action&f=false) a la Arendt) and how do our strategies or tactics play into conventionally binary distinctions like play/work, labor/leisure, and more of "what don't we need"?
 
