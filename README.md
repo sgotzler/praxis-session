@@ -60,9 +60,8 @@ Digital Reading Editions vs. Scholarly Editions ... While goals are varied, what
 
 For more resources and information about minimal computing check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
 
-#### About Us
+## About Us
 
-[Steven Gotzler](https://www.cmu.edu/dietrich/english/people/phds/Bios/steven-gotzler.html)
-[Avery J. Wiscomb](https://averywiscomb.net)
-[Daniel Evans](https://www.linkedin.com/in/danieljohnevans/)
-
+*[Steven Gotzler](https://www.cmu.edu/dietrich/english/people/phds/Bios/steven-gotzler.html)
+*[Avery J. Wiscomb](https://averywiscomb.net)
+*[Daniel Evans](https://www.linkedin.com/in/danieljohnevans/)
