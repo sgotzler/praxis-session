@@ -35,7 +35,7 @@ Minimal computing is not a thing so much as an approach to (re)thinking critical
 
 **Digital reading editions** in particular present us with an opportunity to embed in them a dialectic between what we might consider the more traditional and intuitive bases of literary and cultural interpretation and new forms of digital literacy, less bound by the constraints of the codex and the economics of print publication. 
 
-Digital reading editions can also be productively contrasted with what Susan Schreibman and Bethany Noviskie would call **digital scholarly editions**, such as the [William Black Archive](http://www.blakearchive.org), or the [Women's Writers Project (WWP)](https://www.wwp.northeastern.edu), which tend to be large, grant- and/or institutionally-funded projects with sprawling technical infrastructures.
+Digital reading editions can also be productively contrasted with what Susan Schreibman or Bethany Noviskie would call **digital scholarly editions**, such as the [William Blake Archive](http://www.blakearchive.org) or the [Women's Writers Project (WWP)](https://www.wwp.northeastern.edu), which tend to be large, NEH grant- and/or institutionally-funded projects with sprawling technical infrastructures.
 
 **With low barriers to access and minimal technical skills needed for deployment and maintenance, we think digital reading editions can:** 
 
