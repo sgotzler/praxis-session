@@ -5,13 +5,13 @@
 
 Go to [the registration page](https://web.hypothes.is/start/). All you'll need to sign up for a *hypothes.is* account is an email address and a username. You should receive a confirmation email shortly--check your spam box if not.
 
-You'll more typically be signing in through the annotation sidebar after activating *hypothes.is* in MARXdown itself. Optionally, you can also use *hypothes.is* to annotate any website if you download its Chrome extension.
+You'll more typically be signing in through the annotation sidebar after activating *hypothes.is*. Optionally, you can also use *hypothes.is* to annotate any website if you download its [Chrome extension](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en).
 
 ![hypothes.is2](/assets/img/hypo-image2.png)
 
 ### 2. "Go Forth and Annotate":
 
-Navigate to [*MARXdown*](https://MARXdown.github.io) and sign in to your *hypothes.is* account.
+To try it out, navigate to [*MARXdown*](https://MARXdown.github.io) and sign in to your *hypothes.is* account.
 
 Expand the sidebar to scroll through the existing annotations.
 
@@ -61,6 +61,13 @@ Once you and your comrades have annotated texts as part of the group, links to t
 
 For a more in-depth tutorial on joining and annotating as part of a ***hypothes.is* group** [follow this link](https://web.hypothes.is/blog/introducing-groups/).
 
-Visit *hypothes.is*' [Student Resource Guide](https://web.hypothes.is/student-resource-guide/) or [Teacher Resource Guide](https://web.hypothes.is/teacher-resource-guide/) for more tutorials about using hypothes.is in the classroom, with peers, or for reading groups.
+*Visit *hypothes.is*' [Student Resource Guide](https://web.hypothes.is/student-resource-guide/) or [Teacher Resource Guide](https://web.hypothes.is/teacher-resource-guide/) for more tutorials about using hypothes.is in the classroom, with peers, or for reading groups.*
+
+### Additional Resources
+
+[The Annotated FAQ](https://web.hypothes.is/blog/the-annotated-faq/_)
+[Working with Wikipedia Articles](https://web.hypothes.is/blog/working-with-wikipedia-articles/)
+[How to Compose and Annotation-Based Tweet](https://web.hypothes.is/blog/how-to-compose-an-annotation-based-tweet/)
+
 
 
