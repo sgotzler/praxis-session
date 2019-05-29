@@ -62,6 +62,6 @@ For more resources and information about minimal computing check out the minicom
 
 ## About Us
 
-*[Steven Gotzler](https://www.cmu.edu/dietrich/english/people/phds/Bios/steven-gotzler.html)
-*[Avery J. Wiscomb](https://averywiscomb.net)
-*[Daniel Evans](https://www.linkedin.com/in/danieljohnevans/)
+* [Steven Gotzler](https://www.cmu.edu/dietrich/english/people/phds/Bios/steven-gotzler.html)
+* [Avery J. Wiscomb](https://averywiscomb.net)
+* [Daniel Evans](https://www.linkedin.com/in/danieljohnevans/)
