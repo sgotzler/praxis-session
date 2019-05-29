@@ -65,7 +65,7 @@ For a more in-depth tutorial on joining and annotating as part of a ***hypothes.
 
 ### Additional Resources
 
-* [The Annotated FAQ](https://web.hypothes.is/blog/the-annotated-faq/_)
+* [The Annotated FAQ](https://web.hypothes.is/blog/the-annotated-faq/)
 * [Working with Wikipedia Articles](https://web.hypothes.is/blog/working-with-wikipedia-articles/)
 * [How to Compose an Annotation-Based Tweet](https://web.hypothes.is/blog/how-to-compose-an-annotation-based-tweet/)
 
