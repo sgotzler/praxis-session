@@ -3,7 +3,7 @@
 ### 1. Sign Up For a *hypothes.is* account
 ![hypothes.is1](/assets/img/hypo-image1.png)
 
-Go to [the registration page](*needs link*). All you'll need to sign up for a *hypothes.is* account is an email address and a username. You should receive a confirmation email shortly--check your spam box if not.
+Go to [the registration page](https://web.hypothes.is/start/). All you'll need to sign up for a *hypothes.is* account is an email address and a username. You should receive a confirmation email shortly--check your spam box if not.
 
 You'll more typically be signing in through the annotation sidebar after activating *hypothes.is* in MARXdown itself. Optionally, you can also use *hypothes.is* to annotate any website if you download its Chrome extension.
 
@@ -31,7 +31,7 @@ Enter your annotation content in the composition window and click "Post to Publi
 
 Your annotations are editable and deletable there as well.
 
-[Add images, links, and video,](*needs link*) or format your text using the editing buttons at the top of the composition window:
+[Add images, links, and video,](https://web.hypothes.is/adding-links-images-and-videos/) or format your text using the editing buttons at the top of the composition window:
 
 ![hypothes.is7](/assets/img/hypo-image7.png)
 
@@ -39,7 +39,7 @@ You can also make page-level annotations by clicking the same note button in the
 
 ![hypothes.is8](/assets/img/hypo-image8.png)
 
-See [this blog](*needs link*) for a full explanation of the different types of annotation that can be made in *hypothes.is*, including replies. For tips on best annotation practices (how much text to select, when and how to add images and links, etc.), check out [this page](*needs link*).
+See [this blog post](https://web.hypothes.is/blog/varieties-of-hypothesis-annotations-and-their-uses/) for a full explanation of the different types of annotation that can be made in *hypothes.is*, including replies. For tips on best annotation practices (how much text to select, when and how to add images and links, etc.), check out [this page](https://web.hypothes.is/annotation-tips-for-students/).
 
 ### 3. If you have been instructed to annotate as a part of a reading group:
 
@@ -59,8 +59,8 @@ Once you and your comrades have annotated texts as part of the group, links to t
 
 ![hypothes.is12](/assets/img/hypo-image12.png)
 
-For a more in-depth tutorial on joining and annotating as part of a *hypothes.is* group [follow this link](*needs link*).
+For a more in-depth tutorial on joining and annotating as part of a ***hypothes.is* group** [follow this link](https://web.hypothes.is/blog/introducing-groups/).
 
-*Visit hypothes.is' [Student Resource Guide](*needs link*) for more guides and tutorials about using hypothes.is in the classroom or for reading groups.*
+Visit *hypothes.is*' [Student Resource Guide](https://web.hypothes.is/student-resource-guide/) or [Teacher Resource Guide](https://web.hypothes.is/teacher-resource-guide/) for more tutorials about using hypothes.is in the classroom, with peers, or for reading groups.
 
 
