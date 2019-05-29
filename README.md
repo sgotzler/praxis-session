@@ -31,7 +31,7 @@ In his essay, [“Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
-Minimal computing, as we have argued, is not a thing but an approach to (re)thinking how computerization can be an ally to workers, especially in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects, what we think we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
+Minimal computing, as we have argued, is not a thing but an approach to (re)thinking how computerization can be an ally to workers, especially in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects themselves, what we think we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
 
 **Digital reading editions** present an opportunity to embed in them a dialectic between what we might consider the more traditional and intuitive bases of literary and cultural interpretation and new forms of computerization and digitization, less bound by the constraints of the codex and the economics of print publication. 
 
@@ -68,7 +68,7 @@ Digital reading editions might work in the public or in the classroom to empower
 * [Media and Materiality](https://jentery.github.io/cspt500/) Jentery Sayers' course website and syllabus for a class on media and critical theory at the University of Victoria.
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
 
-For more resources and information about minimal computing check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
+For additional resources and information about minimal computing (minicomp) check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
 
 ## About Us
 
