@@ -31,15 +31,15 @@ In his essay, [“Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
-Digital Reading Editions vs. Scholarly Editions ... While goals are varied, each would seek to renew, disseminate and preserve  the scholarly or public record.
+Digital Reading Editions vs. Scholarly Editions ... While goals are varied, what we think we have in common is that each of us would seek to renew, disseminate and preserve the scholarly or public record.
 
 ## Tutorial
 
 ### [I. Building a Jekyll site](/praxis-session/jekyll)
 
-### [II. Editing & Writing with markdown](/praxis-session/markdown)
+### [II. Editing and writing with markdown](/praxis-session/markdown)
 
-### [III. Using hypothes.is to Create Annotations](/praxis-session/hypothesis)
+### [III. Using hypothes.is to create annotations](/praxis-session/hypothesis)
 
 ## Examples
 
@@ -59,4 +59,10 @@ Digital Reading Editions vs. Scholarly Editions ... While goals are varied, each
 * [sx archipelagos](http://smallaxe.net/sxarchipelagos/) part of the *Small Axe Project*, archipelagos is a peer-review online publication for born-digital scholarship and critical debate in Caribbean studies.
 
 For more resources and information about minimal computing check out the minicomp working group's [GitHub repository](https://github.com/minicomp).
+
+#### About Us
+
+[Steven Gotzler](https://www.cmu.edu/dietrich/english/people/phds/Bios/steven-gotzler.html)
+[Avery J. Wiscomb](https://averywiscomb.net)
+[Daniel Evans](https://www.linkedin.com/in/danieljohnevans/)
 
