@@ -41,7 +41,7 @@ Minimal computing, we hope to have shown, is not a thing so much as an approach 
 * Enable asynchronous group readings and crowdsource contributions from students and faculty at other institutions, or from the public 
 * Combine extant scholarly sources and external media to create a multi-layered annotated edition of a text
 
-Most importantly, digital reading editions might work in the public or in the classroom to empower oftentimes marginalized voices to contribute to scholarly or reading editions of texts, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
+Most importantly, digital reading editions might work in the public or in the classroom to empower oftentimes marginalized voices to contribute to scholarly reading editions of texts, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
 
 ## Tutorial
 
