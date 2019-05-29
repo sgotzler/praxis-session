@@ -1,4 +1,4 @@
-# Using hypothes.is to Create Collaborative Annotations
+# Using hypothes.is to create collaborative annotations
 
 ### 1. Sign Up For a *hypothes.is* account
 ![hypothes.is1](/assets/img/hypo-image1.png)
