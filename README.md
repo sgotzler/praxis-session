@@ -17,7 +17,7 @@ Minimal Computing can be productively oriented around answering the question: "w
 
 We think it's vitally important to continually engage in critical reflection about our own practices and positionally when undertaking any computing project. Critical reflection is especially important when confronting the overlapping concerns of culture and technology, since computing in the humanities in the 21st century has tended to be distorted by hype.
 
-In his essay, [“Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/), Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
+In his essay, [“Minimal Definitions,"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) Jentery Sayers lays out a series of critical questions and cautionary reminders that might help guide our efforts to complicate the assumptions of minimal computing projects. Sayers encourages us to ask:
 
 * How do minimalist aesthetics in computing marginalize and reify by projecting certain features as "essential" when we decide what is necessary in a digital or public humanities project? 
 * How do we define the "we" in questioning computing projects, and how do certain knowledge barriers and material constraints or privileges prescribe our position?
@@ -41,7 +41,7 @@ With low barriers to access and minimal technical skills needed for deployment a
 * Enable asynchronous group readings and crowdsource contributions from students and faculty at other institutions, or from the public 
 * Combine extant scholarly sources and external media to create a multi-layered annotated edition of a text
 
-Digital reading editions might work in the public or in the classroom to empower oftentimes marginalized voices to contribute to scholarly or reading editions of texts, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
+Most importantly, digital reading editions might work in the public or in the classroom to empower oftentimes marginalized voices to contribute to scholarly or reading editions of texts, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
 
 ## Tutorial
 
