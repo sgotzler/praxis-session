@@ -31,9 +31,11 @@ In his essay, [“Minimal Definitions,"](http://go-dh.github.io/mincomp/thoughts
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
-Minimal computing is not a thing so much as an approach to (re)thinking critically about how computerization can be an ally, especially in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects themselves, what we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
+Minimal computing is not a thing so much as an approach to (re)thinking critically about how computerization can be an ally in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects themselves, what we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
 
-**Digital reading editions** in particular present us with an opportunity to embed in them a dialectic between what we might consider the more traditional and intuitive bases of literary and cultural interpretation and new forms of computerization and digitization, less bound by the constraints of the codex and the economics of print publication. 
+**Digital reading editions** in particular present us with an opportunity to embed in them a dialectic between what we might consider the more traditional and intuitive bases of literary and cultural interpretation and new forms of digital literacy, less bound by the constraints of the codex and the economics of print publication. 
+
+Digital reading editions can also be productively contrasted with what Susan Schreibman and Bethany Noviskie would call **digital scholarly editions**, such as the [William Black Archive](http://www.blakearchive.org), or the [Women's Writers Project (WWP)](https://www.wwp.northeastern.edu), which tend to be large, grant- and/or institutionally-funded projects with sprawling technical infrastructures.
 
 **With low barriers to access and minimal technical skills needed for deployment and maintenance, we think digital reading editions can:** 
 
@@ -41,7 +43,7 @@ Minimal computing is not a thing so much as an approach to (re)thinking critical
 * Enable asynchronous group readings and crowdsource contributions from students and faculty at other institutions, or from the public 
 * Combine extant scholarly sources and external media to create a multi-layered annotated edition of a text
 
-Most importantly, digital reading editions might work in the public or in the classroom to empower oftentimes marginalized voices to contribute to scholarly reading editions of texts, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
+Most importantly, digital reading editions might work in the public or in the classroom to help empower oftentimes marginalized voices, especially in decolonial, indigenous, Black studies, cultural and critical ethnic studies, and intersectional feminist interventions.
 
 ## Tutorial
 
