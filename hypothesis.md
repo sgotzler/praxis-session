@@ -63,7 +63,7 @@ For a more in-depth tutorial on joining and annotating as part of a ***hypothes.
 
 *Visit *hypothes.is*' [Student Resource Guide](https://web.hypothes.is/student-resource-guide/) or [Teacher Resource Guide](https://web.hypothes.is/teacher-resource-guide/) for more tutorials about using hypothes.is in the classroom, with peers, or for reading groups.*
 
-### Additional Resources
+### Further Resources
 
 * [The Annotated FAQ](https://web.hypothes.is/faq/)
 * [Working with Wikipedia Articles](https://web.hypothes.is/blog/working-with-wikipedia-articles/)
