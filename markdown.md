@@ -1,6 +1,8 @@
-# Editing & Writing with Markdown
+# Editing and Writing with Markdown
 
-Developed in 2004 by John Gruber, "Markdown" is that name of a lightweight markup language you can use to add formatting elements to plain text files. A markup language is thus a way of formatting and enriching plain text (e.g. adding headers, tags, hyperlinks, etc.) Also, Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
+Developed in 2004 by John Gruber, "Markdown" is that name of a lightweight markup language you can use to add formatting elements to plain text files. 
+
+A markup language is thus a way of formatting and enriching plain text (e.g. adding headers, tags, hyperlinks, etc.) Also, Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
  
 **Markdown has many advantages over HTML:**
 
