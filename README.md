@@ -31,7 +31,7 @@ In his essay, [“Minimal Definitions,"](http://go-dh.github.io/mincomp/thoughts
 
 ## Building Digital Reading Editions Using Minimal Computing Principles
 
-Minimal computing is not a thing so much as an approach to (re)thinking critically about how computerization can be an ally in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects themselves, what we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
+Minimal computing is not a thing so much as an approach to (re)thinking how computerization can be an ally in the formation of digital and public humanities projects. While goals for such projects can be as varied as the kinds of projects themselves, what we have in common at ground is that each of us would seek to renew, disseminate and preserve the scholarly or public record. 
 
 **Digital reading editions** in particular present us with an opportunity to embed in them a dialectic between what we might consider the more traditional and intuitive bases of literary and cultural interpretation and new forms of digital literacy, less bound by the constraints of the codex and the economics of print publication. 
 
