@@ -1,8 +1,8 @@
 # Editing and Writing with Markdown
 
-Developed in 2004 by John Gruber, "Markdown" is that name of a lightweight markup language you can use to add formatting elements to plain text files. 
+Developed in 2004 by John Gruber, "Markdown" is the name of a lightweight markup language you can use to add formatting elements to plain text files. 
 
-A markup language is thus a way of formatting and enriching plain text (e.g. adding headers, tags, hyperlinks, etc.) Also, Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
+A markup language is a way of formatting and enriching plain text (e.g. adding headers, tags, hyperlinks, etc.) Also, Markdown is increasingly the most commonly used form of markup language for DIY web-development projects. 
  
 **Markdown has many advantages over HTML:**
 
@@ -16,7 +16,7 @@ The main drawback is that design choices for styling plain text are limited usin
 
 ## Importing Your Own Text 
 
-Once you've decided on a text you'd like to use to create a digital reading edition, you might need to convert it to plain text before  "marking it down" to prepare it to be rendered for the web. One common example is when you have a pdf of a text that you would like to add to your website in plain text. 
+Once you've decided on a text you'd like to use to create a digital reading edition, you might need to convert it to plain text before "marking it down" to prepare it to be rendered for the web. One common example is when you have a pdf of a text that you would like to add to your website in plain text. 
 
 ### Converting pdf's to plain text using Calibre
 
@@ -33,20 +33,20 @@ Another option might be to locate an online version of a text presented on the w
 
 In fact, this is what we did for *MARXdown* using an existing HTML text on [marxists.org](https://www.marxists.org/archive/marx/works/1867-c1/) for *Capital Vol.1*. 
 
-To execute this task we used a command line program called *Wget*. *Wget* retrieves content from the web and saves that data locally on your machine as per the existing site structure (for example, in nested folders in .HTML files).
+To execute this task we used a command line program called *Wget*. *Wget* retrieves content from the web and saves that data locally on your machine as per the existing site structure (for example, in nested folders with .HTML files).
 
 For *MARXdown* we used the following code:
 
 ```bash
 wget -r --no-parent -w 2 --limit-rate=20k https://www.marxists.org/archive/marx/works/1867-c1/
 ```
->**NOTE**: When using *Wget* you need to be aware of the website's structure such as security (SSL Certificates), dynamically created sites (javascript versus python, etc.)--marxists.org is created using farily basic HTML, so it was easy to retrieve. More complex sites will require more programatically sophisticated methods. 
+>**NOTE**: When using *Wget* you need to be aware of the website's structure such as security (SSL Certificates), or dynamically created sites (javascript versus python, etc.)--marxists.org is created using farily basic HTML, so it was easy to retrieve. More complex sites will require more programatically sophisticated methods. 
 
->Also, please be aware of what data you are downloading at once, and be careful not to overload the website's servers. It is generally good practice to put in a wait time of 1-2 seconds--you can see we did this by adding "-w 2" in the line of code above.
+>Also, please be aware of how much data you are downloading at once, and be careful not to overload the website's servers. It is generally good practice to put in a wait time of 1-2 seconds--you can see we did this by adding "-w 2" in the line of code above.
 
 Executing an automated download of marxists.org required a bit more in-depth editing work on our part, after we had aquired the HTML. We had to remove all of the HTML tags and formatting, for example, replacing hyperlinks, and essentially translating from HTML to Markdown. 
 
-But it also promised us the ease of plain text acquisition; in otherwords, we quickly acquired an open copyright plain text copy of the book in its entirety with out having to deal with OCR or file conversion processes.
+But it also promised us the ease of plain text acquisition; in otherwords, we quickly acquired an open copyright plain text copy of the book in its entirety without having to deal with OCR or file conversion processes.
 
 ## Working with Text-Editors: *Atom*, *Sublime*
 
