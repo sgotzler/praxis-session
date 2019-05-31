@@ -41,3 +41,6 @@ Put another way, a minimal amount of computing upfront will reap you large rewar
 * [Documentation for *Ed.*, a theme for minimal digital editions](https://elotroalex.github.io/ed/documentation/#installing-ed-replacing-an-existing-jekyll-theme)
 * [Quick Start Guide for Jekyll builder](https://jekyllrb.com/docs/)
 * [GitHub Pages Tutorial](https://pages.github.com/)
+
+
+### [Next Section](/praxis-session/markdown)
