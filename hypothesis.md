@@ -11,7 +11,7 @@ You'll more typically be signing in through the annotation sidebar after activat
 
 ### 2. "Go Forth and Annotate":
 
-To try it out, navigate to [*MARXdown*](https://MARXdown.github.io) and sign in to your *hypothes.is* account.
+To try it out, navigate to [*MARXdown*](https://marxdown.github.io/texts/ch07/) and sign in to your *hypothes.is* account.
 
 Expand the sidebar to scroll through the existing annotations.
 
