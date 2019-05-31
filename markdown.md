@@ -67,4 +67,4 @@ If you already have a text-editor feel free to work in that. Otherwise, copy and
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 
-### [Next Section](/hypothesis)
+### [Next Section](/praxis-session/hypothesis)
