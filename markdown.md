@@ -40,11 +40,11 @@ For *MARXdown* we used the following code:
 ```bash
 wget -r --no-parent -w 2 --limit-rate=20k https://www.marxists.org/archive/marx/works/1867-c1/
 ```
->**NOTE**: When using *Wget* you need to be aware of the website's structure such as security (SSL Certificates), or dynamically created sites (javascript versus python, etc.)--marxists.org is created using farily basic HTML, so it was easy to retrieve. More complex sites will require more programatically sophisticated methods. 
+>**NOTE**: When using *Wget* you need to be aware of the website's structure such as security (SSL Certificates), or dynamically created sites (javascript versus python, etc.)--marxists.org is created using fairly basic HTML, so it was easy to retrieve. More complex sites will require more programmatically sophisticated methods. 
 
 >Also, please be aware of how much data you are downloading at once, and be careful not to overload the website's servers. It is generally good practice to put in a wait time of 1-2 seconds--you can see we did this by adding "-w 2" in the line of code above.
 
-Executing an automated download of marxists.org required a bit more in-depth editing work on our part, after we had aquired the HTML. We had to remove all of the HTML tags and formatting, for example, replacing hyperlinks, and essentially translating from HTML to Markdown. 
+Executing an automated download of marxists.org required a bit more in-depth editing work on our part, after we had acquired the HTML. We had to remove all of the HTML tags and formatting, for example, replacing hyperlinks, and essentially translating from HTML to Markdown. 
 
 But it also promised us the ease of plain text acquisition; in otherwords, we quickly acquired an open copyright plain text copy of the book in its entirety without having to deal with OCR or file conversion processes.
 
