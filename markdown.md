@@ -46,7 +46,7 @@ wget -r --no-parent -w 2 --limit-rate=20k https://www.marxists.org/archive/marx/
 
 Executing an automated download of marxists.org required a bit more in-depth editing work on our part, after we had acquired the HTML. We had to remove all of the HTML tags and formatting, for example, replacing hyperlinks, and essentially translating from HTML to Markdown. 
 
-But it also promised us the ease of plain text acquisition; in otherwords, we quickly acquired an open copyright plain text copy of the book in its entirety without having to deal with OCR or file conversion processes.
+But it also promised us the ease of plain text acquisition; in other words, we quickly acquired an open copyright plain text copy of the book in its entirety without having to deal with OCR or file conversion processes.
 
 ## Working with Text-Editors: *Atom*, *Sublime*
 
